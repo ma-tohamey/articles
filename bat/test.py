@@ -1,5 +1,5 @@
 
-name = "mahmoud"
+number = 3
 
-for char in name:
-    print(char)
+for num in range(number):
+    print("Hello, World")
